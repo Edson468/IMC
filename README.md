@@ -1,16 +1,25 @@
 Calculadora de IMC - Documentação
+
 📌 Visão Geral
+
 A Calculadora de IMC é uma aplicação web que permite aos usuários calcular seu Índice de Massa Corporal (IMC) com base no peso e altura fornecidos. Além do cálculo, a aplicação classifica o resultado em diferentes categorias (abaixo do peso, peso ideal, sobrepeso, obesidade graus I, II e III) e oferece uma experiência de usuário intuitiva com validações em tempo real.
 
 ✨ Funcionalidades
+
 ✅ Cálculo automático do IMC
+
 ✅ Classificação do resultado (de acordo com a OMS)
+
 ✅ Validação de entrada (campos vazios, valores inválidos, altura em metros)
+
 ✅ Feedback visual (mensagens de erro/sucesso, destaque em campos inválidos)
+
 ✅ Botão "Calcular Novamente" para reiniciar o cálculo
+
 ✅ Design responsivo (adaptável a diferentes telas)
 
 🛠️ Tecnologias Utilizadas
+
 HTML5 (Estrutura semântica)
 
 CSS3 (Estilização moderna)
@@ -70,4 +79,4 @@ Este projeto é open-source e está disponível sob a licença MIT.
 💡 Créditos
 Desenvolvido por Edson Carvalho como projeto prático de JavaScript.
 
-🔗 Acesse o projeto: [Link para GitHub Pages ou Deploy]
+🔗 Acesse o projeto: [[Link para GitHub Pages ou Deploy](https://edson468.github.io/IMC/)]
